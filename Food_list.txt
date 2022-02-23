@@ -1,0 +1,12 @@
+Food ID:1	Food Name: Burger	 price: 10
+
+Food ID:2	Food Name: pizza	 price: 20
+
+Food ID:30	Food Name: cake	 price: 436
+
+Food ID:4	Food Name: fxgui	 price: 500
+
+Food ID:1	Food Name: SS	 price: 10
+
+Food ID:2	Food Name: JJ	 price: 20
+
